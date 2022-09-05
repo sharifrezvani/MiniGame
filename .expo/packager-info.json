@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://kg-8xd.anonymous.minigame.exp.direct",
+  "packagerNgrokUrl": "https://kg-8xd.anonymous.minigame.exp.direct",
+  "ngrokPid": 1700,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
